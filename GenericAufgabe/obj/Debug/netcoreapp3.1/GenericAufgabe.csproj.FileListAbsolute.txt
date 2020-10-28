@@ -1,0 +1,13 @@
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\bin\Debug\netcoreapp3.1\GenericAufgabe.exe
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\bin\Debug\netcoreapp3.1\GenericAufgabe.deps.json
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\bin\Debug\netcoreapp3.1\GenericAufgabe.runtimeconfig.json
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\bin\Debug\netcoreapp3.1\GenericAufgabe.runtimeconfig.dev.json
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\bin\Debug\netcoreapp3.1\GenericAufgabe.dll
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\bin\Debug\netcoreapp3.1\GenericAufgabe.pdb
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\obj\Debug\netcoreapp3.1\GenericAufgabe.csprojAssemblyReference.cache
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\obj\Debug\netcoreapp3.1\GenericAufgabe.AssemblyInfoInputs.cache
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\obj\Debug\netcoreapp3.1\GenericAufgabe.AssemblyInfo.cs
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\obj\Debug\netcoreapp3.1\GenericAufgabe.csproj.CoreCompileInputs.cache
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\obj\Debug\netcoreapp3.1\GenericAufgabe.dll
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\obj\Debug\netcoreapp3.1\GenericAufgabe.pdb
+C:\Users\DCV\source\repos\GenericAufgabe\GenericAufgabe\obj\Debug\netcoreapp3.1\GenericAufgabe.genruntimeconfig.cache
