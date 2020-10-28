@@ -1,1 +1,1 @@
-# generic-object-generator-zoo-app-
+# generic-object-generator-zoo-app
