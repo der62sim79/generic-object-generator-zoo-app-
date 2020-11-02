@@ -16,5 +16,10 @@ namespace GenericAufgabe
             Name = name;
             CageType = cageType;
         }
+
+        override public string ToString()
+        {
+            return "Im Tigerkäfig ist der " + Name +"\n";
+        }
     }
 }

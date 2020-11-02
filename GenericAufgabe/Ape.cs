@@ -16,5 +16,10 @@ namespace GenericAufgabe
             Name = name;
             CageType = cageType;
         }
+
+        override public string ToString()
+        {
+            return "Welches Tier " + Type + " - Name: " + Name + " - Käfigart " + CageType + "\n";
+        }
     }
 }

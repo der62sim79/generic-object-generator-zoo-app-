@@ -17,7 +17,13 @@ namespace GenericAufgabe
         public void AddAnimal(T animal)
         {
             cageList.Add(animal);
-            Console.WriteLine(" => " + animal + " ist im Käfig");
+        }
+        public void GetAnimals()
+        {
+            foreach(var n in this.cageList)
+            {
+                Console.WriteLine(n.ToString());
+            }
         }
 
         public void RemoveAnimal(T animal)

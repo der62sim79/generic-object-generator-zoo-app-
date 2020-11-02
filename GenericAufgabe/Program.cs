@@ -13,6 +13,11 @@ namespace GenericAufgabe
             apeCage.RemoveAnimal(ape);
             Tiger tiger = GenericObj.GenerateObj<Tiger>(new object[] { "Tiger", "Rakesh", CageType.TigerCage });
             tigerCage.AddAnimal(tiger);
+            Tiger tiger1 = GenericObj.GenerateObj<Tiger>(new object[] { "Tiger", "Paul", CageType.TigerCage });
+            tigerCage.AddAnimal(tiger1);
+            tigerCage.GetAnimals();
         }
+
+       
     }
 }
